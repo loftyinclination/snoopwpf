@@ -118,9 +118,9 @@ Unfortunately there isn't any exhaustive documentation on how to use Snoop and t
 
 Here are the links to the current Snoop Tips & Tricks:
 
-- http://www.cplotts.com/2011/02/10/snoop-tips-tricks-1-ctrl-shift-mouse-over
-- http://www.cplotts.com/2011/02/14/snoop-tips-tricks-2-snooping-transient-visuals
-- http://www.cplotts.com/2012/05/31/snoop-tips-tricks-3-the-crosshairs
+- [Snoop Tricks Part 1 -- Ctrl+Shift+Mouseover](https://www.youtube.com/watch?v=n8EdRR0Tc1k)
+- [Snoop Tricks Part 2 -- Snooping Transient Visuals](https://www.youtube.com/watch?v=98UEVCQHmVA)
+- [Snoop Tricks Part 3 -- Crosshairs](https://www.youtube.com/watch?v=frXAgGzZnrU)
 
 ## Why can't I snoop .NET 3.5 applications?
 
